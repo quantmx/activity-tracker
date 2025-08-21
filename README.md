@@ -35,7 +35,7 @@ This app allows users to create, manage, delete, and analyze their activities. I
 | activity.py | OOP module for activities |
 | analytics.py | FP module for analysis|
 | activities.json | File for storage JSON data. Also will be used for generating/saving predefined activities, if they are missing |
-| test_analytics.py | Unit tests for analytics FP modules | 
+| test_analytics.py | Unit tests for analytics FP module | 
 | test_activity.py | Unit tests for activity OOP module |
 | README.md | Documentation file | 
 | __pycache__ | Python Runtime directory
