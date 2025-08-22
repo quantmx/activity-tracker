@@ -214,6 +214,6 @@ LONGEST STREAK FOR 'TEST' : 1
 WAITING FOR NUMBER OF ITEM(+ ENTER OR RETURN): 0
 BYE BYE 👋
 ```
-* **NOTE: all changes (new activities, activities ins, outs and in/outs) will be saved in activities.json for further use**  
+* **NOTE: all changes (created /deleted  activities, activities ins, outs and in/outs) will be saved in activities.json for further use**  
 
  
